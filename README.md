@@ -1,2 +1,1 @@
-# hellow-world
-just another repository
+hellow，the first day
